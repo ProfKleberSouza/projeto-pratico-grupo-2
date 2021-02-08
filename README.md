@@ -1,18 +1,18 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Engenharia de Computação`
 
-`DISCIPLINA`
+`LDDM`
 
-`SEMESTRE`
+`2021/1`
 
 ## Participantes
 
 Os membros do grupo são: 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
+- Caio Gomides Gonçalves
+- Igor Conde Eleoterio
+- Maicon Rodrigues Barbosa
+- Rubens Campos Moreira Bicalho
 
 # Documentação
 
