@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# App Barbearia Zeca Beludo
 
 `Engenharia de Computação`
 
