@@ -1,11 +1,6 @@
 # Especificações Do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
-> 
 > Linguagem: Flutter e Dart.
 > Software: Android Studio. 
 > Emulador: Android Vitual Device Manager (AVD).
