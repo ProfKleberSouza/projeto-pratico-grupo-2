@@ -61,13 +61,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuário selecione o local de atendimento | MÉDIO |
 |RF-002| Permitir que o usuário selecione o(s) serviço(s) | MÉDIO |
 |RF-003| Permitir que o usuário selecione o(s) profissional(is) | MÉDIO |
-|RF-004| Permitir que o usuário selecione data e hora do atendimento | MÉDIO |
-|RF-005| Permitir que o usuário reagende o atendimento marcado | MÉDIO |
+|RF-004| Permitir que o usuário selecione data e hora do atendimento | ALTO |
+|RF-005| Permitir que o usuário reagende o atendimento marcado | ALTO |
 |RF-006| Permitir que o usuário selecione o método de pagamento | MÉDIO |
-|RF-007| Permitir que o usuário consulta o seu histórico | MÉDIO |
-|RF-008| Permitir que o profissional consulte a própria agenda | MÉDIO |
-|RF-009| Permitir que o profissional consulte o seu histórico de atendimentos | MÉDIO |
-|RF-010| Permitir que o profissional reagende o atendimento marcado | MÉDIO |
+|RF-007| Permitir que o usuário consulta o seu histórico | BAIXO |
+|RF-008| Permitir que o profissional consulte a própria agenda | ALTO |
+|RF-009| Permitir que o profissional consulte o seu histórico de atendimentos | BAIXO |
+|RF-010| Permitir que o profissional reagende o atendimento marcado | ALTO |
 
 ### Requisitos não Funcionais
 
@@ -75,38 +75,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-003| O sistema deverá ter uma taxa de disponibilidade acima de 99% |  ALTA | 
+|RNF-004| O sistema deverá atender a LGPD |  ALTA | 
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|ID| Restrição                                                    |
+|--|--------------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre        |
+|02| Não pode ser desenvolvido um módulo de backend               |
+|03| O projeto será desenvolvido apenas para plataforma Android   |
+|04| A fim de testes, o sistema irá simular uma API de pagamentos |
