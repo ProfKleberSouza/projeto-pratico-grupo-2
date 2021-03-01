@@ -36,13 +36,6 @@ agenda de marcação, e sim por ordem de chegada, o que acabava por prejudicar
 Cleiton que não conseguia fidelizar nenhum cliente. Cleiton também não tinha 
 controle de pausas ou hora de ir embora, prejudicando em muito o seu bem estar.
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
-
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
