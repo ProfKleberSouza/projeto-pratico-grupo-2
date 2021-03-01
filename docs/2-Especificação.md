@@ -45,10 +45,20 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                     |
 |----------------------------|------------------------------------|--------------------------------------------|
+|Cliente                     | Selecionar o local de atendimento  | Escolher local que deseja ser atendido     |
 |Cliente                     | Agendar um serviço estético        | Cuidar da aparência                        |
-|Funcionário da barbearia    | Controlar agenda de atendimentos   | Atender os clientes de maneira organizada  |
-|Dono da barbearia           | Atingir mais clientes              | Melhorar o faturamento e ser reconhecido   |
-|Dono da barbearia           | Fidelizar clientes                 | Melhorar o faturamento                     |
+|Cliente                     | Selecionar o profissional          | Escolher um profissional de confiança      |
+|Cliente                     | Selecionar data e hora             | Planejar a rotina                          |
+|Cliente                     | Reagendar                          | Replanejar a rotina                        |
+|Cliente                     | Selecionar método de pagamento     | Escolher aquele que é mais aderente        |
+|Cliente                     | Consultar histórico de atendimento | Controlar serviços consumidos              |
+|Funcionário da barbearia    | Controlar agenda de atendimentos   | Programar a sua rotina                     |
+|Funcionário da barbearia    | Consultar histórico de atendimento | Controlar serviços realizados              |
+|Funcionário da barbearia    | Reagendar o atendimento marcado    | Reprogramar a sua rotina                   |
+|Dono da barbearia           | Agendar um serviço estético        | Programar atendimentos                     |
+|Dono da barbearia           | Reagendar o atendimento marcado    | Reprogramar atendimentos                   |
+|Dono da barbearia           | Extrair relatório de atendimentos dos funcionários | Gerenciar atendimentos |
+|Dono da barbearia           | Extrair relatório de atendimentos de clientes | Gerenciar atendimentos |
 
 ## Requisitos
 
@@ -68,6 +78,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-008| Permitir que o profissional consulte a própria agenda | ALTO |
 |RF-009| Permitir que o profissional consulte o seu histórico de atendimentos | BAIXO |
 |RF-010| Permitir que o profissional reagende o atendimento marcado | ALTO |
+|RF-011| Permitir que o dono agende o atendimento | ALTO |
+|RF-012| Permitir que o dono reagende o atendimento marcado | ALTO |
+|RF-013| Permitir que o dono extraia relatório de atendimentos dos funcionários | ALTO |
+|RF-014| Permitir que o dono extraia relatório de atendimentos dos clientes | ALTO |
 
 ### Requisitos não Funcionais
 
@@ -75,8 +89,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
-|RNF-003| O sistema deverá ter uma taxa de disponibilidade acima de 99% |  ALTA | 
-|RNF-004| O sistema deverá atender a LGPD |  ALTA | 
 
 ## Restrições
 
@@ -85,6 +97,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                                    |
 |--|--------------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre        |
-|02| Não pode ser desenvolvido um módulo de backend               |
-|03| O projeto será desenvolvido apenas para plataforma Android   |
-|04| A fim de testes, o sistema irá simular uma API de pagamentos |
+|02| O projeto será desenvolvido apenas para plataforma Android   |
+|03| A fim de testes, o sistema irá simular uma API de pagamentos |
