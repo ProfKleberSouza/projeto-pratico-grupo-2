@@ -47,8 +47,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |----------------------------|------------------------------------|--------------------------------------------|
 |Cliente                     | Agendar um serviço estético        | Cuidar da aparência                        |
 |Funcionário da barbearia    | Controlar agenda de atendimentos   | Atender os clientes de maneira organizada  |
-|Dono da barbearia           | Atingir mais clientes              | Melhorar meu faturamento e ser reconhecido |
-|Dono da barbearia           | Fidelizar clientes                 | Melhorar meu faturamento                   |
+|Dono da barbearia           | Atingir mais clientes              | Melhorar o faturamento e ser reconhecido   |
+|Dono da barbearia           | Fidelizar clientes                 | Melhorar o faturamento                     |
 
 ## Requisitos
 
