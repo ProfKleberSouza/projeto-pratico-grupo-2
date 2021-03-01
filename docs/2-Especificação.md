@@ -43,12 +43,12 @@ controle de pausas ou hora de ir embora, prejudicando em muito o seu bem estar.
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`       | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                     |
-|---------------------------|------------------------------------|--------------------------------------------|
-|Cliente                    | Agendar um serviço estético        | Cuidar da aparência                        |
-|Funcionário da babearia    | Controlar agenda de atendimentos   | Atender os clientes de maneira organizada  |
-|Dono da babearia           | Atingir mais clientes              | Melhorar meu faturamento e ser reconhecido |
-|Dono da babearia           | Fidelizar clientes                 | Melhorar meu faturamento                   |
+|EU COMO... `PERSONA`        | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                     |
+|----------------------------|------------------------------------|--------------------------------------------|
+|Cliente                     | Agendar um serviço estético        | Cuidar da aparência                        |
+|Funcionário da barbearia    | Controlar agenda de atendimentos   | Atender os clientes de maneira organizada  |
+|Dono da barbearia           | Atingir mais clientes              | Melhorar meu faturamento e ser reconhecido |
+|Dono da barbearia           | Fidelizar clientes                 | Melhorar meu faturamento                   |
 
 ## Requisitos
 
