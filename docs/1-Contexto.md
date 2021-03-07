@@ -12,7 +12,7 @@
 > Através do aplicativo será possível realizar login do usuário via 
 > banco de dados, selecionar unidade mais próxima, serviço desejado,
 > o profissional pelo qual deseja ser atendido, agendar e reagendar 
-> compromisso, e pagamento da serviço solicitado.
+> compromisso, e pagamento do serviço solicitado.
 
 ## Justificativa
 
