@@ -2,7 +2,7 @@
 
 ## Problema
 > Neste ambiente pandêmico e de incerteza quanto a possibilidade de 
-> abertura de estabelecimentos, foi constada uma demanda do mercado por 
+> abertura de estabelecimentos, foi constatada uma demanda do mercado por 
 > soluções em agendamento e remarcações de serviços. 
 
 ## Objetivos
