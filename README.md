@@ -11,7 +11,7 @@
 Os membros do grupo são: 
 - Caio Gomides Gonçalves
 - Igor Conde Eleoterio
-- Maicon Rodrigues Barbosa
+- Henrique Barbosa
 - Rubens Campos Moreira Bicalho
 
 # Documentação
