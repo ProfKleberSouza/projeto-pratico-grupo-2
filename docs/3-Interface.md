@@ -3,7 +3,7 @@
 
 ## User Flow
 
-![fluxo](img/fluxo.jpg)
+![fluxo](img/fluxo.png)
 
 
 
