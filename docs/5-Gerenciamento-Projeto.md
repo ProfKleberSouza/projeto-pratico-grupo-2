@@ -4,10 +4,10 @@
 
 ## Divisão de Papéis
 
-> - Caio Gomides Gonçalves: 
-> - Rubens Campos Moreira Bicalho:
-> - Igor Conde Eleoterio:
-> - Henrique Luiz Vieira Barbosa:
+> - Caio Gomides Gonçalves: developer
+> - Rubens Campos Moreira Bicalho: product owner
+> - Igor Conde Eleoterio: developer
+> - Henrique Luiz Vieira Barbosa: developer
  
 
 ## Processo
