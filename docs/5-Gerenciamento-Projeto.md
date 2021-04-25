@@ -1,6 +1,6 @@
 # Gerenciamento de Projeto
 
-> O grupo utiliza a metologia X para gestão do projeto.
+> O grupo utiliza a metologia ágil para gestão do projeto, onde são criadas histórias em um Kanban. Através do Kanban, as atividades são distribuídas, gerenciadas e executadas pelo time.
 
 ## Divisão de Papéis
 
