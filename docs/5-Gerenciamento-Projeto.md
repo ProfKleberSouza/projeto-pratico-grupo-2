@@ -4,10 +4,10 @@
 
 ## Divisão de Papéis
 
-> Caio Gomides Gonçalves: 
-> Rubens Campos Moreira Bicalho:
-> Igor Conde Eleoterio:
-> Henrique Luiz Vieira Barbosa:
+> - Caio Gomides Gonçalves: 
+> - Rubens Campos Moreira Bicalho:
+> - Igor Conde Eleoterio:
+> - Henrique Luiz Vieira Barbosa:
  
 
 ## Processo
