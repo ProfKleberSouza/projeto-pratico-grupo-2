@@ -1,13 +1,13 @@
 # Gerenciamento de Projeto
 
-> O grupo utiliza a metologia ágil para gestão do projeto, onde são criadas histórias em um Kanban. Através do Kanban, as atividades são distribuídas, gerenciadas e executadas pelo time.
+O grupo utiliza a metologia ágil para gestão do projeto, onde são criadas histórias em um Kanban. Através do Kanban, as atividades são distribuídas, gerenciadas e executadas pelo time.
 
 ## Divisão de Papéis
 
-> - Caio Gomides Gonçalves: developer
-> - Rubens Campos Moreira Bicalho: product owner
-> - Igor Conde Eleoterio: developer
-> - Henrique Luiz Vieira Barbosa: developer
+- Caio Gomides Gonçalves: developer
+- Rubens Campos Moreira Bicalho: product owner
+- Igor Conde Eleoterio: developer
+- Henrique Luiz Vieira Barbosa: developer
  
 
 ## Processo
