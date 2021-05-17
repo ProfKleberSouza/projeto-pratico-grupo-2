@@ -31,16 +31,16 @@ Avaliação de impacto:
 
 Avaliação de esforço:
 Através da entrega em sprints, foi levantado o esforço para primeira entrega (sprint 2):
-- Login - 2 horas
-- Tela Serviço - 4 horas
+- Login - 4 horas
+- Tela Serviço - 8 horas
 - Seleção Unidade - 4 horas
 - Seleção Serviços - 3 horas
 - Seleção Barbeiro - 3 horas
-- Seleção Data/Hora - 3 horas
+- Seleção Data/Hora - 5 horas
 - Tela de Confirmação do pedido - 4 horas
 - Tela Confirmado, com disparo do invite - 3 horas 
 - Teste por tela - 1 hora x 8 = 8 horas
-Total: 34 horas para sprint 2.
+Total: 42 horas para sprint 2.
 
 Aprovação do Planejamento:
 - Integrantes, entre eles devs e PO.
