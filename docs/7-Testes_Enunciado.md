@@ -3,7 +3,7 @@
 <span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
 
 
-Os testes a serem realizados são nas funcionalidades das seguintes telas e funções homônimas:
+Os testes a serem realizados são nas funcionalidades das seguintes telas/funções:
 - Login;
 - Tela Serviço;
 - Seleção Unidade;
@@ -16,8 +16,9 @@ Os testes a serem realizados são nas funcionalidades das seguintes telas e fun�
 ## Plano de Testes
 
 Os testes escolhidos para serem aplicados no APP Barbearia são:
-- o teste de usabilidade – nesse teste é feito por um pequeno grupo de usuários para ver se o software satisfaz as suas necessidades.  Nesse teste analisa-se como o usuário usa o sistema, verificando onde ele tem mais dificuldade. Ouve-se também suas impressões, porém é preciso confrontá-las com as observações do avaliador. No caso do projeto, os usuários que realizam teste são o PO e os Devs a medida que o app foi sendo desenvolvido e entregue; e o
-- Teste de regressão – esse consiste em realizar testes a cada versão de um software, onde se modificam-se funcionalidades. Desse modo, evita-se que erros que foram corrigidos antes no software antes voltem a aparecer na hora de se incrementar algo novo a ele. Então toda nova submissão, todo o app é testado, muito por conta do tamanho do projeto.
+- o teste de usabilidade – nesse teste é feito por um pequeno grupo de usuários para ver se o software satisfaz as suas necessidades.  Nesse teste analisa-se como o usuário usa o sistema, verificando onde ele tem mais dificuldade. Ouve-se também suas impressões, porém é preciso confrontá-las com as observações do avaliador. No caso do projeto, os usuários que realizam teste são o PO e os Devs a medida que o app foi sendo desenvolvido e entregue;
+- Teste de regressão – esse consiste em realizar testes a cada versão de um software, onde se modificam-se funcionalidades. Desse modo, evita-se que erros que foram corrigidos antes no software antes voltem a aparecer na hora de se incrementar algo novo a ele. Então toda nova submissão, todo o app é testado, muito por conta do tamanho do projeto;
+- Teste de integração: Firebase para armazenamento e recuperação de informações, e Google Calendar para disparo de invites.
 
 Estudo do Projeto:
 Desenvolvimento da aplicação, vislumbrando:
