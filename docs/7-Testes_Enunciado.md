@@ -51,15 +51,6 @@ Definição de responsabilidade:
 Dinâmica das Macro-Atividades:
 - Definição de projeto >> Definição de Requisitos >> Desenvolvimento >> Testes
 
-
-## Ferramentas de Testes (Opcional)
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
 ## Avaliação
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
