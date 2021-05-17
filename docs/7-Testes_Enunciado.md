@@ -3,7 +3,7 @@
 <span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
 
 
-Os testes a serem realizados são:
+Os testes a serem realizados são nas funcionalidades das seguintes telas e funções homônimas:
 - Login;
 - Tela Serviço;
 - Seleção Unidade;
