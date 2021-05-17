@@ -3,21 +3,20 @@
 <span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
 
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+Os testes a serem realizados são:
+- Login;
+- Seleção Unidade;
+- Seleção Serviços;
+- Seleção Barbeiro;
+- Seleção Data/Hora;
+- Tela de Confirmação do pedido;
+- Tela Confirmado, com disparo do invite.
 
 ## Plano de Testes
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+Os testes escolhidos para serem aplicados no APP Barbearia são:
+- o teste de usabilidade – nesse teste é feito por um pequeno grupo de usuários para ver se o software satisfaz as suas necessidades.  Nesse teste analisa-se como o usuário usa o sistema, verificando onde ele tem mais dificuldade. Ouve-se também suas impressões, porém é preciso confrontá-las com as observações do avaliador. No caso do projeto, os usuários que realizam teste são o PO e os Devs a medida que o app foi sendo desenvolvido e entregue; e o
+- Teste de regressão – esse consiste em realizar testes a cada versão de um software, onde se modificam-se funcionalidades. Desse modo, evita-se que erros que foram corrigidos antes no software antes voltem a aparecer na hora de se incrementar algo novo a ele. Então toda nova submissão, todo o app é testado, muito por conta do tamanho do projeto.
 
 ## Ferramentas de Testes (Opcional)
 
