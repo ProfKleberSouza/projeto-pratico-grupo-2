@@ -69,6 +69,8 @@ d) Recuperar senha exige que o campo de email esteja preenchido, gerando uma men
 
 e) Ao clicar no botão Criar Conta direciona corretamente para a tela de Cadastro.
 
+!(img/TelaLogin.png)
+
 3- Tela de Cadastro:
 
 a) Preenchimento dos campos funciona corretamente;
