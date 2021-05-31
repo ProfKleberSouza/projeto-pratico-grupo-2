@@ -59,9 +59,11 @@ Dinâmica das Macro-Atividades:
 Teste do Software
 
 1- Tela de apresentação:
+
 a) Sem testes a serem realizados, uma vez que trata-se apenas de animação.
 
 2- Tela de login: 
+
 a) Sem problemas no preenchimento de usuário e senha;
 
 b) Usuário e senha não reconhecidos geram crítica corretamente;
@@ -74,4 +76,62 @@ e) Ao clicar no botão Criar Conta direciona corretamente para a tela de Cadastr
 
 3- Tela de Cadastro:
 
-a) 
+a) Preenchimento dos campos funciona corretamente;
+
+b) Cadastro apresentou falha no momento do teste, tendo a inclusão do cadastro realizada com sucesso no banco de dados, porém a tela ficou carregando em loop. Necessário reinício do app para prosseguir.
+
+c) Botão Cancelar retorna a tela anterior.
+
+4- Tela de seleção de atendimento:
+
+a) Apresenta todas as opções de Unidades, Barbeiros, Serviços, Data e Hora disponíveis, juntamente com as informações de histórico de agendamento, e botão de Finalizar Agendamento;
+
+b) Botão de retornar no canto superior direito retorna à tela anterior de login;
+
+c) Botão de Finalizar Atendimento está diponível o tempo todo, apresentando um contador para mostrar quantas opções foram selecionadas. Após clicar, ele direciona para uma tela confimarmando a marcação;
+
+d) Botão Limpar todas as seleções reseta todos os dados escolhidos nesta tela.
+
+5- Tela de Unidades
+
+a) Mostra corretamente as unidades cadastradas, com botões de Mapa e Ligar;
+
+b) Ao clicar no botão de Mapa, direciona para o Google Maps para o local cadastrado;
+
+c) Ao clicar no botão de Ligar, direciona para o telefone do smatphone;
+
+d) Ao clicar no botão Cancelar, retorna para a tela anterior sem a seleção de nenhuma localidade ou mantendo a localidade já selecionada;
+
+e) Ao clicar em uma das unidades, a seleção estará realizada e retorna a tela anterior.
+
+6- Tela de Barbeiros
+
+a) Mostra todos os barbeiros disponíveis com foto. Ao clicar em um deles, a seleção estará realizada e retorna a tela anterior;
+
+b) Ao clicar no botão Cancelar, retorna para a tela anterior sem a seleção de nenhum barbeiro ou mantendo o barbeiro já selecionado.
+
+7- Tela de Serviços
+
+a) Mostra todos os serviços. Ao clicar em um deles, a seleção estará realizada e retorna a tela anterior;
+
+b) Ao clicar no botão Cancelar, retorna para a tela anterior sem a seleção de nenhum serviço ou mantendo o serviço já selecionado. Observação: só permite um serviço por vez.
+
+8- Tela Date Hora
+
+a) Permite seleção de uma data abrindo um calendário, e um intervalo de hora disponível para marcação de serviço. Não foi verificado disponibilidade;
+
+b) Ao clicar no botão Cancelar, retorna para a tela anterior sem a seleção de nenhuma data ou mantendo a já selecionada.
+
+9- Tela Agendamento
+
+a) Botão de voltar localizado na parte de cima, à esquerda retorna a tela anterior, conforme esperado;
+
+b) A tela mostra um resumo de todas as opções selecionadas na tela anterior e preço do serviço;
+
+c) Botão Criar Agendamento provoca mudança de tela. Observação: esse botão deve disparar um invite para o email do usuário.
+
+10- Tela de Confirmação
+
+a) Tela mostra mensagem de confimação do agendamento.
+
+b) Botão de voltar localizado na parte de cima, à esquerda, e na parte inferior da tela retorna a tela anterior, conforme esperado.
