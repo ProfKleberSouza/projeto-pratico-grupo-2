@@ -135,3 +135,11 @@ c) Botão Criar Agendamento provoca mudança de tela. Observação: esse botão 
 a) Tela mostra mensagem de confimação do agendamento.
 
 b) Botão de voltar localizado na parte de cima, à esquerda, e na parte inferior da tela retorna a tela anterior, conforme esperado.
+
+## Conclusão
+
+O aplicativo apresenta bonita estética, tem tempo de resposta baixo para grande parte das funções que apresenta, e é promissor para seu objetivo. Porém está inacabado, e necessita de polimento em algumas telas, como por exemplo:
+- botão de login pelo Facebook deve ser retirado;
+- na tela de agendamento deve enviar o invite via email para o usuário.
+
+Da maneira como está, o aplicativo não pode ir à produção.
