@@ -63,10 +63,15 @@ a) Sem testes a serem realizados, uma vez que trata-se apenas de animação.
 
 2- Tela de login: 
 a) Sem problemas no preenchimento de usuário e senha;
+
 b) Usuário e senha não reconhecidos geram crítica corretamente;
+
 c) Login correto direciona à tela de Serviços;
+
 d) Recuperar senha exige que o campo de email esteja preenchido, gerando uma mensagem na parte de baixo da tela requisitando o devido preenchimento;
+
 e) Ao clicar no botão Criar Conta direciona corretamente para a tela de Cadastro.
 
 3- Tela de Cadastro:
+
 a) 
