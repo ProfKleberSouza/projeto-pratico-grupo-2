@@ -79,6 +79,8 @@ b) Cadastro apresentou falha no momento do teste, tendo a inclusão do cadastro 
 
 c) Botão Cancelar retorna a tela anterior.
 
+![Tela_De_Cadastro](img/TelaCadastro.png)
+
 4- Tela de seleção de atendimento:
 
 a) Apresenta todas as opções de Unidades, Barbeiros, Serviços, Data e Hora disponíveis, juntamente com as informações de histórico de agendamento, e botão de Finalizar Agendamento;
@@ -88,6 +90,8 @@ b) Botão de retornar no canto superior direito retorna à tela anterior de logi
 c) Botão de Finalizar Atendimento está diponível o tempo todo, apresentando um contador para mostrar quantas opções foram selecionadas. Após clicar, ele direciona para uma tela confimarmando a marcação;
 
 d) Botão Limpar todas as seleções reseta todos os dados escolhidos nesta tela.
+
+![Tela_De_Selecao](img/TelaDeSelecao.png)
 
 5- Tela de Unidades
 
@@ -101,11 +105,15 @@ d) Ao clicar no botão Cancelar, retorna para a tela anterior sem a seleção de
 
 e) Ao clicar em uma das unidades, a seleção estará realizada e retorna a tela anterior.
 
+![Tela_De_Unidades](img/TelaUnidades.png)
+
 6- Tela de Barbeiros
 
 a) Mostra todos os barbeiros disponíveis com foto. Ao clicar em um deles, a seleção estará realizada e retorna a tela anterior;
 
 b) Ao clicar no botão Cancelar, retorna para a tela anterior sem a seleção de nenhum barbeiro ou mantendo o barbeiro já selecionado.
+
+![Tela_De_Barbeiros](img/TelaBarbeiros.png)
 
 7- Tela de Serviços
 
@@ -113,11 +121,15 @@ a) Mostra todos os serviços. Ao clicar em um deles, a seleção estará realiza
 
 b) Ao clicar no botão Cancelar, retorna para a tela anterior sem a seleção de nenhum serviço ou mantendo o serviço já selecionado. Observação: só permite um serviço por vez.
 
+![Tela_De_Servicos](img/TelaServicos.png)
+
 8- Tela Date Hora
 
 a) Permite seleção de uma data abrindo um calendário, e um intervalo de hora disponível para marcação de serviço. Não foi verificado disponibilidade;
 
 b) Ao clicar no botão Cancelar, retorna para a tela anterior sem a seleção de nenhuma data ou mantendo a já selecionada.
+
+![Tela_De_DataHora](img/TelaDataHora2.png)
 
 9- Tela Agendamento
 
@@ -127,11 +139,15 @@ b) A tela mostra um resumo de todas as opções selecionadas na tela anterior e 
 
 c) Botão Criar Agendamento provoca mudança de tela. Observação: esse botão deve disparar um invite para o email do usuário.
 
+![Tela_De_Agendamento](img/TelaAgendamento.png)
+
 10- Tela de Confirmação
 
 a) Tela mostra mensagem de confimação do agendamento.
 
 b) Botão de voltar localizado na parte de cima, à esquerda, e na parte inferior da tela retorna a tela anterior, conforme esperado.
+
+![Tela_De_Confirmacao](img/TelaConfirmacao.png)
 
 ## Conclusão
 
