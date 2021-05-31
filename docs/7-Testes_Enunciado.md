@@ -1,8 +1,5 @@
 # Avaliação da Aplicação
 
-<span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
-
-
 Os testes a serem realizados são nas funcionalidades das seguintes telas/funções:
 - Login;
 - Tela Serviço;
