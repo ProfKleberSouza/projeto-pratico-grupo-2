@@ -156,3 +156,39 @@ O aplicativo apresenta bonita estética, tem tempo de resposta baixo para grande
 - na tela de agendamento deve enviar o invite via email para o usuário.
 
 Da maneira como está, o aplicativo não pode ir à produção.
+
+## Teste de usabilidade
+
+# Fases do teste de usabilidade:
+O usuário deverá ser capaz de:
+- Cadastrar usuário
+- Trocar a senha
+- Realizar login
+- Escolher local para atendimento
+- Escolher barbeiro
+- Escolher serviço
+- Escolher data e hora do atendimento
+- Confirmar marcação de serviço
+- Checar marcação atual e antigas
+
+
+# Projeto das atividades de teste
+
+
+# Recrutamento de participantes:
+- Serão selecionados 5 participantes que desejam fazer marcações de barbeiro, e não tiveram contato com o app anteriormente para não ter sua opinião "Contaminada".
+
+
+# Preparação de materiais necessários:
+- O usuário deve ter um smatphone Android 5.0 ou superior
+
+
+# Configuração do ambiente de teste:
+- O usuário deve instalar a APK em seu smartphone, que obedeça a condição de material anterior.
+
+
+# Condução do teste
+Após explicação inicial sobre o aplicativo, o usuário terá que ser capaz de utilizar o aplicativo sem intervenção. Caso o usuário não consiga realizar os passos e agendar o serviço, deve pedir ajuda, e o aplicativo é considerado pouco intuitivo, não atendendo um de seus requisitos não funcionais.
+
+# Compilação e análise dos dados coletados.
+Após a coleta das respostas dos usuários sobre a utilização de cada uma das funções, será realizado uma compilação das respostas, evidenciando em métricas se o feedback foi positivo e o aplicativo deverá ser revisto.
