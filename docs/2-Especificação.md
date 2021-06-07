@@ -1,13 +1,13 @@
 # Especificações Do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
-> Linguagem: Java.
->
-> Software: Android Studio.
-> 
-> Emulador: Android Vitual Device Manager (AVD).
-> 
-> Administração do projeto: Github.
+Linguagem: Flutter/Dart.
+
+Software: Android Studio.
+ 
+Emulador: Android Vitual Device Manager (AVD).
+ 
+Administração do projeto: Github.
 
 ## Personas
 
