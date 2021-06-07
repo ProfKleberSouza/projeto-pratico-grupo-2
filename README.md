@@ -23,5 +23,5 @@ Os membros do grupo são:
 5. [Gerenciamento de Projeto](docs/5-Gerenciamento-Projeto.md)
 6. [Implementação](docs/6-Implementação_Enunciado.md)
 7. [Testes e Avaliação](docs/7-Testes_Enunciado.md)
-8. [Referências](docs/8-Referências.md)
+8. [Referências](docs/8-Referências_Enunciado.md)
 9. [Apresentação](docs/9-Apresentação.md)
