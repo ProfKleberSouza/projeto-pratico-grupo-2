@@ -1,8 +1,6 @@
 # Especificações Do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> 
- 
-Documentação de Contexto</a></span>
+<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
 
 Linguagem: Flutter/Dart.
 
