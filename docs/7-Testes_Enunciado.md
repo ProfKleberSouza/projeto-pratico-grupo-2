@@ -157,9 +157,9 @@ O aplicativo apresenta bonita estética, tem tempo de resposta baixo para grande
 
 Da maneira como está, o aplicativo não pode ir à produção.
 
-## Teste de usabilidade
+# Teste de usabilidade
 
-# Fases do teste de usabilidade:
+## Fases do teste de usabilidade:
 O usuário deverá ser capaz de:
 - Cadastrar usuário
 - Trocar a senha
@@ -172,23 +172,28 @@ O usuário deverá ser capaz de:
 - Checar marcação atual e antigas
 
 
-# Projeto das atividades de teste
+## Projeto das atividades de teste
+Para cada uma das atividades mapeadas que o usuário deverá ser capaz de fazer, o mesmo deve responder de acordo com Sim, Parcialmente, Não:
+- O objetivo foi alcançado?
+- Foi fácil realizar a tarefa?
+- Foi requisitada ajuda para realizar a tarefa?
+- A experiência foi satisfatória?
+- A tela respondeu em pouco tempo?
+- Observações (escrita livre)
+
+## Recrutamento de participantes:
+- Serão selecionados 5 participantes que desejam fazer marcações de barbeiro, e não tiveram contato com o app anteriormente para não ter sua opinião "contaminada".
 
 
-# Recrutamento de participantes:
-- Serão selecionados 5 participantes que desejam fazer marcações de barbeiro, e não tiveram contato com o app anteriormente para não ter sua opinião "Contaminada".
-
-
-# Preparação de materiais necessários:
+## Preparação de materiais necessários:
 - O usuário deve ter um smatphone Android 5.0 ou superior
 
 
-# Configuração do ambiente de teste:
+## Configuração do ambiente de teste:
 - O usuário deve instalar a APK em seu smartphone, que obedeça a condição de material anterior.
 
-
-# Condução do teste
+## Condução do teste
 Após explicação inicial sobre o aplicativo, o usuário terá que ser capaz de utilizar o aplicativo sem intervenção. Caso o usuário não consiga realizar os passos e agendar o serviço, deve pedir ajuda, e o aplicativo é considerado pouco intuitivo, não atendendo um de seus requisitos não funcionais.
 
-# Compilação e análise dos dados coletados.
+## Compilação e análise dos dados coletados.
 Após a coleta das respostas dos usuários sobre a utilização de cada uma das funções, será realizado uma compilação das respostas, evidenciando em métricas se o feedback foi positivo e o aplicativo deverá ser revisto.
