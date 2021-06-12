@@ -1,61 +1,42 @@
 # Introdução
 
 ## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> Neste ambiente pandêmico e de incerteza quanto a possibilidade de 
+> abertura de estabelecimentos, foi constatada uma demanda do mercado por 
+> soluções em agendamento e remarcações de serviços. 
 
 ## Objetivos
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> Desenvolvimento de uma aplicação mobile em que o usuário poderá 
+> realizar o agendamento de serviços ofertados por uma barbearia.
+> Através do aplicativo será possível realizar login do usuário via 
+> banco de dados, selecionar unidade mais próxima, serviço desejado,
+> o profissional pelo qual deseja ser atendido, agendar e reagendar 
+> compromisso, e pagamento do serviço solicitado.
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> A pandemia potencializou a necessidade de informatizar novos mercados, 
+> como o de profissionais liberais. A digitalização tem alcançado todos 
+> os seguimentos do mercado, e o setor de barbearia e salões de beleza 
+> não poderiam ficar de fora. Atrair e fidelizar os clientes sem sair de 
+> casa através de aplicativos mobile foi a maneira como o mercado 
+> encontrou de se adaptar à nova realidade. Com o aplicativo o cliente 
+> poderá acessar uma interface intuitiva, escolher o local, data e hora 
+> que deseja atendimento, saber a localização do estabelecimento mais 
+> próximo, escolher o serviço desejado, quem o atenderá, e método de 
+> pagamento. A marcação de serviços através de aplicativos mobile trás ao 
+> cliente facilidade, praticidade, mobilidade, agilidade e segurança.
+
 
 ## Público-Alvo
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+> A aplicação faz parte da adesão de profissionais liberais que atuam no 
+> ramo de estética, em geral não informatizados ou com baixa
+> informatização do seu negócio, que tenham a operação do seu negócio 
+> afetada pelas mudanças nas políticas públicas de fechamento do
+> comércio e isolamento social.
+> Os usuários que irão consumir o conteúdo do aplicativo são 
+> principalmente pessoas que utilizam aparelhos celulares, e tem a 
+> prática de utilizar aplicativos de consumo no dia a dia, como por 
+> exemplo iFood, Uber ou Rappi. 

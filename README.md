@@ -1,18 +1,18 @@
-# TÍTULO DO PROJETO
+# App Barbearia Zeca Beludo
 
-`CURSO`
+`Engenharia de Computação`
 
-`DISCIPLINA`
+`LDDM`
 
-`SEMESTRE`
+`2021/1`
 
 ## Participantes
 
 Os membros do grupo são: 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
+- Caio Gomides Gonçalves
+- Igor Conde Eleoterio
+- Henrique Barbosa
+- Rubens Campos Moreira Bicalho
 
 # Documentação
 
@@ -21,7 +21,7 @@ Os membros do grupo são:
 3. [Projeto da Interface](docs/3-Interface.md)
 4. [Gestão de Configuração](docs/4-Gestão-Configuração.md)
 5. [Gerenciamento de Projeto](docs/5-Gerenciamento-Projeto.md)
-6. [Implementação](docs/6-Implementação.md)
-7. [Testes e Avaliação](docs/7-Testes.md)
-8. [Referências](docs/8-Referências.md)
-9. [Apresentação](docs/9-Apresentação.md)
+6. [Implementação](docs/6-Implementação_Enunciado.md)
+7. [Testes e Avaliação](docs/7-Testes_Enunciado.md)
+8. [Referências](docs/8-Referências_Enunciado.md)
+9. [Apresentação](docs/9-Apresentação_Enunciado.md)

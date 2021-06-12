@@ -1,50 +1,36 @@
 # Gerenciamento de Projeto
 
-> Descreva aqui a metodologia de trabalho do grupo para atacar o
-> problema.
+O grupo utiliza a metologia ágil para gestão do projeto, onde são criadas histórias em um Kanban. Através do Kanban, as atividades são distribuídas, gerenciadas e executadas pelo time.
 
 ## Divisão de Papéis
 
-> Apresente a divisão de papéis entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+- Caio Gomides Gonçalves: developer
+- Rubens Campos Moreira Bicalho: product owner
+- Igor Conde Eleoterio: developer
+- Henrique Luiz Vieira Barbosa: developer
+ 
 
 ## Processo
 
-> Coloque  informações sobre detalhes da implementação do Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+O grupo se reune 2 vezes por semana, segundas e sextas-feiras, para identificar pendências, evoluções e próximas etapas do projeto.
+Utilizando a metodologia Scrum, o acompanhamento do andamento do projeto é realizado através do Kanban do próprio Github, onde:
+ - todas as tarefas a serem feitas são cadastradas na coluna To Do;
+ - quando iniciadas, as tarefas são arrastadas para In Progress e atribuidas para os responsáveis pela execução daquela tarefa;
+ - caso seja encontrado algum impedimento, o mesmo é informado no card e arrastado para Blocked;
+ - quando o desenvolvimento do item é finalizado, o card é arrastado para Homologation para que um segundo integrante do grupo avalie a entrega;
+ - caso o item seja reprovado, volta para a In Progress, e caso seja aprovado é arrastado para Done.
+
+Ao fim da Sprint, os cards da coluna Done são encerrados.
+
 
 ## Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+- Android Studio.
+- MS Teams
+- Figma
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-> Liste quais ferramentas foram empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [![Slack](img/slack.jpg)](https://slack.com/)
-> - [![Trello](img/trello.png)](https://trello.com/)
-> 
-> - [![Microsof Project](img/project.png)](https://products.office.com/pt-br/project/project-and-portfolio-management-software)
-> - [![Redbooth](img/redbooth.png)](https://redbooth.com/)
+O Android Studio foi escolhido porque é a base da disciplina e é a ferramenta que temos suporte.
+O MS Teams foi escolhido como plataforma de comunicação por termos facilidade de integração com documentos em nuvem, e edição simultanea.
+Para diagramação foi escolhido o Figma, pois é a ferramenta que o grupo tem mais facilidade de uso.

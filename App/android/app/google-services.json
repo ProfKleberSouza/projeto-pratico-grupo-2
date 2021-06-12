@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69166536590",
+    "firebase_url": "https://lojaflutter-564f5-default-rtdb.firebaseio.com",
+    "project_id": "lojaflutter-564f5",
+    "storage_bucket": "lojaflutter-564f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69166536590:android:7bc18b3bb9253f217ff6df",
+        "android_client_info": {
+          "package_name": "br.com.conde.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69166536590-b837fnpcpl7i2vhmcuv06ob6k034n37i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJdF2WEjgBowT9f4tbtMyJM0qbMDZ8rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69166536590-b837fnpcpl7i2vhmcuv06ob6k034n37i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
