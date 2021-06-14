@@ -205,6 +205,7 @@ Após a coleta das respostas dos usuários sobre a utilização de cada uma das 
 ## Notas
 
 As notas dos usuários foram compiladas na planilha abaixo:
+
 Link: https://drive.google.com/file/d/1F_RCQribJCBf2VZxVeJ41AaDIDLCeOfj/view?usp=sharing
 
 ## Gráfico de métricas gerais
