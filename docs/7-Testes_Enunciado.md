@@ -197,3 +197,18 @@ Após explicação inicial sobre o aplicativo, o usuário terá que ser capaz de
 
 ## Compilação e análise dos dados coletados.
 Após a coleta das respostas dos usuários sobre a utilização de cada uma das funções, será realizado uma compilação das respostas, evidenciando em métricas se o feedback foi positivo e o aplicativo deverá ser revisto.
+
+## Usuários escolhidos
+
+![Usuários](img/usuarios.png)
+
+## Notas
+
+As notas dos usuários foram compiladas na planilha abaixo:
+Link: https://drive.google.com/file/d/1F_RCQribJCBf2VZxVeJ41AaDIDLCeOfj/view?usp=sharing
+
+## Gráfico de métricas gerais
+
+A partir dos dados coletados foi possível identificar que os usuários ficaram satisfeitos ao utilizarem o app, conseguindo passar de maneira satisfatória pela maioria das funcionalidades. Um ponto comum de atenção em que a usabilidade que foi criticada foram aquelas que envolviam cadastro e troca de senha, que apresentaram instabilidade.
+
+![Métricas Gerais](img/NotasGerais.png)
